@@ -73,7 +73,7 @@ This dashboard helps stakeholders quickly identify performance patterns, monitor
 
   Airline selection
 
-  **Dashboard Preview**
+  📷 **Dashboard Preview**
 
   <img width="1200" height="659" alt="image" src="https://github.com/user-attachments/assets/1e749f0b-b9dc-4aeb-a923-6377d85c0582" />
 
