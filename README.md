@@ -74,4 +74,6 @@ This dashboard helps stakeholders quickly identify performance patterns, monitor
   Airline selection
 
   **Dashboard Preview**
-https://github.com/SHRIYA-Dscience/Dashboards-2026/blob/Airline/Airline%20Performance.png
+
+  <img width="1200" height="659" alt="image" src="https://github.com/user-attachments/assets/1e749f0b-b9dc-4aeb-a923-6377d85c0582" />
+
