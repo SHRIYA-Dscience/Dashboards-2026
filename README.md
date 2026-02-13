@@ -72,3 +72,6 @@ This dashboard helps stakeholders quickly identify performance patterns, monitor
   Status slicer
 
   Airline selection
+
+  **Dashboard Preview**
+https://github.com/SHRIYA-Dscience/Dashboards-2026/blob/Airline/Airline%20Performance.png
